@@ -1,0 +1,7 @@
+*_LOCAL_*  
+*_BACKUP_*  
+*_BASE_*  
+*_REMOTE_*  
+*.bak  
+*.orig  
+debug.log  
